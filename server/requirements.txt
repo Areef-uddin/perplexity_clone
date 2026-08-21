@@ -3,11 +3,13 @@ uvicorn[standard]==0.34.0
 
 sentence-transformers==2.2.2
 transformers==4.30.2
-huggingface-hub==0.16.4
-accelerate==0.21.0
+huggingface-hub==0.14.1
+accelerate==0.20.3
 
 tavily-python==0.5.0
 trafilatura==1.12.2
 
 google-generativeai==0.8.5
 python-dotenv==1.0.1
+
+pydantic-settings==2.7.1
